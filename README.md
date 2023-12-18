@@ -112,4 +112,4 @@ La realitat virtual va un pas més enllà del cinema: podríem dir que no es con
     
 - Unknown, 2016. HABLEMOS DE LA HISTORIA DE GOOGLE: Traductor de Google. HABLEMOS DE LA HISTORIA DE GOOGLE. URL [https://hablemosdelahistoriadegoogle.blogspot.com/2016/09/traductor-de-google.html](https://hablemosdelahistoriadegoogle.blogspot.com/2016/09/traductor-de-google.html) (accessed 12.16.23).
 ## 5. Enllaç al repositori<a name="5"></a>
-https://github.com/munozlopezm/PAC3_Manovich_Reloaded/blob/main/README.md#5
+https://github.com/munozlopezm/PAC3_Manovich_Reloaded/blob/main/README.md
